@@ -1,5 +1,4 @@
-user_id = input("Enter ID:yes enter ok now enter 
-")
+user_id = input("Enter ID:yes")
 
 query = "SELECT * FROM users WHERE id = " + user_id
 
