@@ -5,3 +5,5 @@ def sub():
   return 0
 
 
+def div(a,b):
+  return 0/0
