@@ -14,3 +14,5 @@ def sub():
     return 0
 def nothing():
     return 0
+def nothing2():
+    return 1
