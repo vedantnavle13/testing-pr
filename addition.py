@@ -12,3 +12,5 @@ def div(a,b):
 
 def sub():
     return 0
+def nothing():
+    return 0
