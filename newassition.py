@@ -8,3 +8,6 @@ def sub():
 
 def div2():
   return 0/0
+
+def add():
+  retun 0/0
