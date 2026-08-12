@@ -19,3 +19,13 @@ def addd():
 def nothing():
   return 0
  def nothing():
+def add():
+  retun 0/0
+
+def addd():
+  return 1/0
+
+
+def nothing():
+  return 0
+ def nothing():
