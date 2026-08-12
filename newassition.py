@@ -11,3 +11,5 @@ def div2():
 
 def add():
   retun 0/0
+def duv():
+  return 1/0
