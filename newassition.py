@@ -14,3 +14,7 @@ def add():
 
 def addd():
   return 1/0
+
+
+def nothing():
+  return 0
